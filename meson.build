@@ -1,0 +1,1 @@
+project('liblifx', 'vala', 'c')
